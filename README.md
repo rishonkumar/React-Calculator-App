@@ -1,6 +1,6 @@
 # Website Link
 
-(https://rishon-calculator-app.netlify.app/)
+(https://rishon-calculator-app.netlify.app//)
 
 
                         
